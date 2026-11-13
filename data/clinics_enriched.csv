@@ -1,9 +1,9 @@
 clinic_id,clinic_name,city,tier,latitude,longitude,temp_c
-C01,Kothrud Family Clinic,Pune,Metro,18.5074,73.8077,17.4
-C02,Hadapsar Care Centre,Pune,Metro,18.5089,73.926,18.7
-C03,Sitabuldi Health Point,Nagpur,Tier-2,21.1458,79.0882,19.9
-C04,Malviya Nagar Clinic,Jaipur,Tier-2,26.8553,75.815,19.7
-C05,Vaishali Nagar Clinic,Jaipur,Tier-2,26.9124,75.7873,19.7
-C06,Edappally Medical Centre,Kochi,Tier-2,10.0261,76.3085,25.7
-C07,Vijay Nagar Clinic,Indore,Tier-2,22.7533,75.8937,18.3
-C08,Gomti Nagar Care Point,Lucknow,Tier-2,26.8467,80.9462,18.7
+C01,Kothrud Family Clinic,Pune,Metro,18.5074,73.8077,16.9
+C02,Hadapsar Care Centre,Pune,Metro,18.5089,73.926,18.5
+C03,Sitabuldi Health Point,Nagpur,Tier-2,21.1458,79.0882,19.3
+C04,Malviya Nagar Clinic,Jaipur,Tier-2,26.8553,75.815,20.6
+C05,Vaishali Nagar Clinic,Jaipur,Tier-2,26.9124,75.7873,20.6
+C06,Edappally Medical Centre,Kochi,Tier-2,10.0261,76.3085,25.6
+C07,Vijay Nagar Clinic,Indore,Tier-2,22.7533,75.8937,19.9
+C08,Gomti Nagar Care Point,Lucknow,Tier-2,26.8467,80.9462,19.0
