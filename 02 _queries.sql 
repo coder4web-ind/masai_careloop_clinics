@@ -1,5 +1,5 @@
+INSERT INTO appointments(appointment_id, patient_id, clinic_id, booked_on, appt_date, age, gender, distance_km, fee_inr, booking_channel, visit_type, reminder_sent, prior_no_shows, status, lead_days, no_show) VALUES ('A0001', 'P509', 'C05', '2025-01-24', '2025-01-25', 60, 'F', '18.0', 850, 'Phone', 'Consultation', 'Yes', 1, 'No-Show', 1, 1)
 
-INSERT INTO appointments VALUES ('A0001', 'P509', 'C05', '2025-01-24', '2025-01-25', 60, 'F', '18.0', 850, 'Phone', 'Consultation', 'Yes', 1, 'No-Show', 1, 1)
 MySQL Error (1062): Duplicate entry 'A0001' for key 'appointments.PRIMARY'
 
 
